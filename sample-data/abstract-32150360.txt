@@ -1,0 +1,54 @@
+1. Features, Evaluation, and Treatment of Coronavirus (COVID-19).
+
+Cascella M(1), Rajnik M, Aleem A(2), Dulebohn SC, Di Napoli R(3).
+
+In: StatPearls [Internet]. Treasure Island (FL): StatPearls Publishing; 2023 
+Jan–.
+2023 Aug 18.
+
+Author information:
+(1)Istituto Nazionale Tumori - IRCCS - Fondazione Pascale, Via Mariano Semmola 
+80100, Napoli. Italy
+(2)Lehigh Valley Health Network, Allentown, USA
+(3)Institut Jules Bordet -Brussels, Belgium
+
+Coronavirus disease 2019 (COVID-19) is a highly contagious viral illness caused 
+by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). COVID-19 has 
+had a catastrophic effect on the world, resulting in more than 6 million deaths 
+worldwide. After the first cases of this predominantly respiratory viral illness 
+were reported in Wuhan, Hubei Province, China, in late December 2019, SARS-CoV-2 
+rapidly disseminated worldwide. This compelled the World Health Organization 
+(WHO) to declare it a global pandemic on March 11, 2020. Even though substantial 
+progress in clinical research has led to a better understanding of SARS-CoV-2, 
+many countries continue to have outbreaks of this viral illness. These outbreaks 
+are primarily attributed to the emergence of mutant variants of the virus. Like 
+other RNA viruses, SARS-CoV-2 adapts with genetic evolution and developing 
+mutations. This results in mutant variants that may have different 
+characteristics than their ancestral strains. Several variants of SARS-CoV-2 
+have been described during the course of this pandemic, among which only a few 
+are considered variants of concern (VOCs). Based on the epidemiological update 
+by the WHO, 5 SARS-CoV-2 VOCs have been identified since the beginning of the 
+pandemic: Alpha (B.1.1.7): First variant of concern, which was described in the 
+United Kingdom (UK) in late December 2020. Beta (B.1.351): First reported in 
+South Africa in December 2020. Gamma (P.1): First reported in Brazil in early 
+January 2021. Delta (B.1.617.2): First reported in India in December 2020. 
+Omicron (B.1.1.529): First reported in South Africa in November 2021. Despite 
+the unprecedented speed of vaccine development against the prevention of 
+COVID-19 and robust global mass vaccination efforts, the emergence of new 
+SARS-CoV-2 variants threatens to overturn the progress made in limiting the 
+spread of this disease. This review aims to comprehensively describe the 
+etiology, epidemiology, pathophysiology, and clinical features of COVID-19. This 
+review also provides an overview of the different variants of SARS-CoV-2 and the 
+guideline-recommended treatment (as of January 2023) for managing this disease. 
+
+Copyright © 2023, StatPearls Publishing LLC.
+
+PMID: 32150360
+
+Conflict of interest statement: Disclosure: Marco Cascella declares no relevant 
+financial relationships with ineligible companies. Disclosure: Michael Rajnik 
+declares no relevant financial relationships with ineligible companies. 
+Disclosure: Abdul Aleem declares no relevant financial relationships with 
+ineligible companies. Disclosure: Scott Dulebohn declares no relevant financial 
+relationships with ineligible companies. Disclosure: Raffaela Di Napoli declares 
+no relevant financial relationships with ineligible companies.
